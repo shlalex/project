@@ -1,6 +1,1 @@
-const category = "toys";
- console.log(`https://someurl.com/${category}`);
-
- const user ="Ivan";
- alert(`privet ${user}`
- );
+console.log(2+2*2 !=="6");
